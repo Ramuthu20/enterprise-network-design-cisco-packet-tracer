@@ -8,7 +8,7 @@ A Cisco Packet Tracer project: a segmented enterprise network using router-on-a-
 
 ## Network Topology
 
-![Network Topology](network-topology.png)
+![Network Topology](topology/network-topology.png)
 
 **Design summary:** Two access switches (**SW1**, **SW2**) are joined by a 2-link LACP EtherChannel trunk. SW1 uplinks to the edge router **R1** over a single trunk. R1 provides inter-VLAN routing using subinterfaces (router-on-a-stick), DHCP for all VLANs, and NAT overload toward the **ISP** router over the `203.0.113.0/30` WAN link. The ISP simulates the public Internet, with a loopback at `8.8.8.8` standing in for public DNS.
 
