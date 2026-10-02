@@ -177,7 +177,3 @@ Applied **inbound** on `Gi0/0.30` (Guest gateway):
 
 *Note: this is an educational lab project. The device passwords in the published configs are lab-only credentials and are not used anywhere else. In a production network I would use unique credentials, SSH instead of Telnet, and centralized AAA (TACACS+/RADIUS).*
 
-## How to Use
-1. Install Cisco Packet Tracer.
-2. Open `enterprise-network.pkt`.
-3. Run the commands in the verification table on each device to reproduce the results.
