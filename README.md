@@ -10,8 +10,7 @@ The network was designed to support separate Staff and Guest networks while prov
 
 Network Topology
 
-![Network Topology](network-topology.png)
-
+![Network Topology](topology/network-topology.png)
 Technologies & Networking Concepts
 
 * Cisco Packet Tracer
